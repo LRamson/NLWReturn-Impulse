@@ -18,16 +18,16 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Web:
- -React
- -Typescript
- -Tailwindcss
- -Phosphor Icons
-- Server:
- - Express
- - Typescript
- - Prisma
- -Jest
+-- Web:
+-React
+-Typescript
+-Tailwindcss
+-Phosphor Icons
+-- Server:
+- Express
+- Typescript
+- Prisma
+-Jest
 
 ## Projeto
 

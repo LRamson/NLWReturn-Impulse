@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Server:
   - Express
   - Typescript
-  - Primsa
+  - Prisma
   - Jest
 
 ## Projeto
